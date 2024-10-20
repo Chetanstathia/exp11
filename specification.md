@@ -1,10 +1,4 @@
-# School Management System Specification
-
-## Version 1.0
-- Overview: This document outlines the specifications for a school management system.
-- Modules:
-  - Student Management
-  - Teacher Management
-  - Class Scheduling
-  - Attendance Tracking
-  - Report Generation
+## Version 1.1
+- Added Library Management Module
+  - Book Cataloging
+  - Book Borrowing and Returns
